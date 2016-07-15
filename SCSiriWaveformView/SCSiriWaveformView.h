@@ -8,7 +8,7 @@
 
 @import UIKit;
 
-IB_DESIGNABLE
+// IB_DESIGNABLE
 @interface SCSiriWaveformView : UIView
 
 /*
